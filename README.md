@@ -113,10 +113,10 @@ streamlit run main.py
 
 | Member     | LinkedIn | GitHub |
 | ---------- | -------- | ------ |
-| **[Abrar Ashraf]** | [Link]   | [[Link]](https://github.com/abrar305) |
-| **[Name]** | [Link]   | [Link] |
-| **[Name]** | [Link]   | [Link] |
-| **[Name]** | [Link]   | [Link] |
+| **[Abrar Ashraf]** | [www.linkedin.com/in/abrar-ashraf-]   | [[Link]](https://github.com/abrar305) |
+| **[Engi Eid]** | [Link]   | [Link] |
+| **[Sara Gamal]** | [https://www.linkedin.com/in/sarah-gamal-61bba53a6]   | [https://github.com/sarahgamal2348-svg] |
+| **[Rania Sabry]** | [Link]   | [Link] |
 
 ---
 

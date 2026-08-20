@@ -116,7 +116,7 @@ streamlit run main.py
 | **[Abrar Ashraf]** | [www.linkedin.com/in/abrar-ashraf-]   | [[Link]](https://github.com/abrar305) |
 | **[Engi Eid]** | [Link]   | [https://github.com/EngiEid] |
 | **[Sara Gamal]** | [https://www.linkedin.com/in/sarah-gamal-61bba53a6]   | [https://github.com/sarahgamal2348-svg] |
-| **[Rania Sabry]** | [Link]   | [Link] |
+| **[Rania Sabry]** | [https://www.linkedin.com/in/rania-sabry-554909413?utm_source=share_via&utm_content=profile&utm_medium=member_android]   | [https://github.com/Rania888-sabry] |
 
 ---
 
